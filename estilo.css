@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(54, 143, 54, 0.619);
+}
+.pau{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
